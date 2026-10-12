@@ -78,8 +78,8 @@ MultiPiP has two modes. Use whichever fits the situation.
 
 | | Single window | Multiple windows |
 |---|---|---|
-| Shortcut (Windows) | `Alt + P` | `Alt + Shift + P` |
-| Shortcut (macOS) | `Option + P` | `Option + Shift + P` |
+| Shortcut (Windows) | `Alt + P` | `Alt + Shift + M` |
+| Shortcut (macOS) | `Option + P` | `Option + Shift + M` |
 | Open at the same time | 1 window in the whole browser | Many (1 per tab) |
 | Window type | Chrome's PiP window (floats above other apps) | A regular Chrome window |
 | DRM-protected video (Netflix, etc.) | Works | Does not work |
