@@ -31,7 +31,7 @@
     },
     "toggle-multi-pip": {
       "suggested_key": {
-        "default": "Alt+Shift+P"
+        "default": "Alt+Shift+M"
       },
       "description": "Open / close this tab's video in its own floating window (multi)"
     }

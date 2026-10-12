@@ -204,7 +204,7 @@ html,body{margin:0;height:100%;background:#000;overflow:hidden}
     const onKey = (e) => {
       if (e.ctrlKey || e.metaKey) return;
       if (e.altKey) {
-        if (e.code === 'KeyP') {
+        if (e.code === 'KeyP' || (e.shiftKey && e.code === 'KeyM')) {
           e.preventDefault();
           cmd('close');
         }
